@@ -1,0 +1,28 @@
+{
+  "name": "ematerial",
+  "version": "0.0.1",
+  "description": "Material CSS Express Router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitifet/ematerial.git"
+  },
+  "keywords": [
+    "material",
+    "css",
+    "framework"
+  ],
+  "author": "Joan Miquel Torres <jmtorres@112ib.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bitifet/ematerial/issues"
+  },
+  "homepage": "https://github.com/bitifet/ematerial#readme",
+  "dependencies": {
+    "express-static": "^1.0.3",
+    "materialcss": "^0.3.3"
+  }
+}
